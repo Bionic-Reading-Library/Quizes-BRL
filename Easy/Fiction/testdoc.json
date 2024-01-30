@@ -1,10 +1,11 @@
-}	
+[
 	{
-	"Question":"What is what?"
+	"Question":"What is what?",
 	"Answer":"What"
-	}
+	},
+	
 	{
-	"Question":"What is what2?"
+	"Question":"What is what2?",
 	"Answer":"What2"
 	}
-}
+]
