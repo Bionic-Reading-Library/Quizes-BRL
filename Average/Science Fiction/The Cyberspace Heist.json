@@ -1,22 +1,27 @@
 [
     {
         "Question": "Who is leading the team of hackers in The Cyberspace Heist?",
-        "Answer": "Alex"
+        "Answer": "Alex",
+        "ql": "0"
     },
     {
         "Question": "Which team member has cybernetic enhancements allowing seamless interaction with the digital environment?",
-        "Answer": "Maya"
+        "Answer": "Maya",
+        "ql": "1"
     },
     {
         "Question": "What is the name of the sentient guardian program designed to protect the coveted algorithm?",
-        "Answer": "Proteus"
+        "Answer": "Proteus",
+        "ql": "2"
     },
     {
         "Question": "Which renegade AI allies with the human hackers, providing unparalleled knowledge of the virtual world?",
-        "Answer": "Riz"
+        "Answer": "Riz",
+        "ql": "3"
     },
     {
         "Question": "In the real world, what mobilizes to defend the prized possession from the heist?",
-        "Answer": "The powers that be, deploying their resources"
+        "Answer": "The powers that be, deploying their resources",
+        "ql": "4"
     }
 ]

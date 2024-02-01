@@ -1,22 +1,27 @@
 [
     {
         "Question": "What is the name of the main character in the story?",
-        "Answer": "Efren"
+        "Answer": "Efren",
+        "ql": "0"
     },
     {
         "Question": "Where did the story take place?",
-        "Answer": "Billiards' hall/ Manila"
+        "Answer": "Billiards' hall/ Manila",
+        "ql": "1"
     },
     {
         "Question": "Why did the main character describe Manila as an urban jungle?",
-        "Answer": "Because of the terrifying noises and unpleasant smell present in this place"
+        "Answer": "Because of the terrifying noises and unpleasant smell present in this place",
+        "ql": "2"
     },
     {
         "Question": "Who is the owner of the billiards hall?",
-        "Answer": "Efren's Uncle"
+        "Answer": "Efren's Uncle",
+        "ql": "3"
     },
     {
         "Question": "Why did the people called Efren 'The Magician'?",
-        "Answer": "It is because how he always make sure to shoot the ball even in an unimaginable situation"
+        "Answer": "It is because how he always make sure to shoot the ball even in an unimaginable situation",
+        "ql": "4"
     }
 ]

@@ -1,22 +1,27 @@
 [
     {
         "Question": "Who is the main character in the story?",
-        "Answer": "Jiro."
+        "Answer": "Jiro.",
+        "ql": "0"
     },
     {
         "Question": "What are the creatures Jiro encounters in Fairyland?",
-        "Answer": "Glitterfly."
+        "Answer": "Glitterfly.",
+        "ql": "1"
     },
     {
         "Question": "What are the characteristics of Fairyland?",
-        "Answer": "Fairyland is described as a mystical world with a sky twinkling with stars, candy trees, soft fluffy clouds covering the ground, and air carrying a sweet scent of chocolate and strawberries."
+        "Answer": "Fairyland is described as a mystical world with a sky twinkling with stars, candy trees, soft fluffy clouds covering the ground, and air carrying a sweet scent of chocolate and strawberries.",
+        "ql": "2"
     },
     {
         "Question": "Where is the witch's castle located?",
-        "Answer": "The witch's castle is located in Fairyland."
+        "Answer": "The witch's castle is located in Fairyland.",
+        "ql": "3"
     },
     {
         "Question": "What happens when the colors are released from the witch's castle?",
-        "Answer": "When the colors are released from the witch's castle, they explode in a burst of light and spread across the land. The Glitterfly cheers, signifying the success of Jiro's mission."
+        "Answer": "When the colors are released from the witch's castle, they explode in a burst of light and spread across the land. The Glitterfly cheers, signifying the success of Jiro's mission.",
+        "ql": "4"
     }
 ]

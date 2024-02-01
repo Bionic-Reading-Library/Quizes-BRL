@@ -1,22 +1,27 @@
 [
     {
         "Question": "What is the name of the character in the story?",
-        "Answer": "Selene/Selene Lopez"
+        "Answer": "Selene/Selene Lopez",
+        "ql": "0"
     },
     {
         "Question": "What is the career/job of the main character's family in the story?",
-        "Answer": "Lawyer"
+        "Answer": "Lawyer",
+        "ql": "1"
     },
     {
         "Question": "What is the dream job of the main character?",
-        "Answer": "Doctor"
+        "Answer": "Doctor",
+        "ql": "2"
     },
     {
         "Question": "Why did she receive disagreements from her family when she was in college?",
-        "Answer": "It is because she chose to take a medical course in college"
+        "Answer": "It is because she chose to take a medical course in college",
+        "ql": "3"
     },
     {
         "Question": "What helped her to financially support her education?",
-        "Answer": "She was helped by a friend which introduced a stable job for her"
+        "Answer": "She was helped by a friend which introduced a stable job for her",
+        "ql": "4"
     }
 ]
