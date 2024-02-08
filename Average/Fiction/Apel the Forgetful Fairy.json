@@ -4,6 +4,7 @@
         "Choices": [
             "Apel is known for her kindness.",
             "Apel is known for her strength.",
+            "Apel is known for her intelligence.",
             "Apel is known for her intelligence."
         ],
         "Answer": "Apel is known for her kindness.",
@@ -15,6 +16,7 @@
         "Choices": [
             "Apel's weakness is that she tends to forget things.",
             "Apel's weakness is that she is not very strong.",
+            "Apel's weakness is that she is not very intelligent.",
             "Apel's weakness is that she is not very intelligent."
         ],
         "Answer": "Apel's weakness is that she tends to forget things.",
@@ -24,6 +26,7 @@
         "Question": "What task did Apel forget to complete one day?",
         "Choices": [
             "Apel forgot to take some magical flowers to the elves in the forest.",
+            "Apel forgot to take some magical flowers to the dwarves in the forest.",
             "Apel forgot to take some magical flowers to the dwarves in the forest.",
             "Apel forgot to take some magical flowers to the gnomes in the forest."
         ],
@@ -35,6 +38,7 @@
         "Choices": [
             "To make amends, Apel decided to apologize and bring the flowers first thing the next day.",
             "To make amends, Apel decided to apologize and bring the flowers first thing the next week.",
+            "To make amends, Apel decided to apologize and bring the flowers first thing the next week.",
             "to make amends, Apel decided to apologize and bring the flowers first thing the next month."
         ],
         "Answer": "To make amends, Apel apologized and vowed to bring the flowers first thing the next day.",
@@ -44,6 +48,7 @@
         "Question": "How did Apel's transformation impact her relationships in the land?",
         "Choices": [
             "Apel's transformation earned her the respect and trust of everyone in the land.",
+            "Apel's transformation earned her the respect and trust of no one in the land.",
             "Apel's transformation earned her the respect and trust of no one in the land.",
             "Apel's transformation earned her the respect and trust of only a few in the land."
         ],
