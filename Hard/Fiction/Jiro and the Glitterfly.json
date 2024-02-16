@@ -1,27 +1,113 @@
 [
     {
         "Question": "Who is the main character in the story?",
-        "Answer": "Jiro.",
-        "ql": "0"
+        "Answer": "Jiro",
+        "Choices": [
+            "Jiro",
+            "Taro",
+            "Hiro",
+            "Kaito"
+        ],
+        "ql": "0",
+        "aoq": "9"
     },
     {
         "Question": "What are the creatures Jiro encounters in Fairyland?",
         "Answer": "Glitterfly.",
+        "Choices": [
+            "Sparklebugs",
+            "Glitterfly",
+            "Rainbow Sprites",
+            "Luminous Fairies"
+        ],
         "ql": "1"
     },
     {
-        "Question": "What are the characteristics of Fairyland?",
-        "Answer": "Fairyland is described as a mystical world with a sky twinkling with stars, candy trees, soft fluffy clouds covering the ground, and air carrying a sweet scent of chocolate and strawberries.",
+        "Question": "What color did the plant in the park indicate?",
+        "Answer": "Yellow",
+        "Choices": [
+            "Green",
+            "Blue",
+            "Yellow",
+            "Red"
+        ],
         "ql": "2"
     },
     {
-        "Question": "Where is the witch's castle located?",
-        "Answer": "The witch's castle is located in Fairyland.",
+        "Question":"What world did Jiro find himself in after being ensnared by the plant?",
+        "Answer":"Fairyland",
+        "Choices":[
+            "Wonderland",
+            "Fairyland",
+            "Dreamland",
+            "Enchantia"
+        ],
         "ql": "3"
     },
     {
-        "Question": "What happens when the colors are released from the witch's castle?",
-        "Answer": "When the colors are released from the witch's castle, they explode in a burst of light and spread across the land. The Glitterfly cheers, signifying the success of Jiro's mission.",
+        "Question":"Where did Jiro and the Glitterfly go on their quest?",
+        "Answer":"Witch's Castle",
+        "Choices":[
+            "Underwater Kingdom",
+            "Mountain of Mysteries",
+            "Witch's Castle",
+            "Cloud City"
+        ],
         "ql": "4"
+    },
+    {
+        "Question":"Why did Jiro approach the unusual-looking plant in the park?",
+        "Answer":"To investigate the brilliant yellow light",
+        "Choices":[
+            "To admire it's beauty",
+            "To investigate the brilliant yellow light",
+            "To take a closer look at it's thorns",
+            "To avoid it and continue his stroll"
+        ],
+        "ql": "5"
+    },
+    {
+        "Question":"Why did the Glitterfly need Jiro's help",
+        "Answer":"To recover stolen colors",
+        "Choices":[
+            "To find their lost treasures",
+            "to defeat a dragon",
+            "To recover stolen colors",
+            "To build a rainbow bridge"
+        ],
+        "ql": "6"
+    },
+    {
+        "Question":"Why did the witch cackle malevolently when Jiro and the Glitterfly reached her castle?",
+        "Answer":"She knew they couldn't defeat her",
+        "Choices":[
+            "She was amused by their quest",
+            "She knew they couldn't defeat her",
+            "She wanted to scare them away",
+            "She was casting a spell"
+        ],
+        "ql": "7"
+    },
+    {
+        "Question":"Why did the colors explode from the witch's castle",
+        "Answer":"Because of Jiro's resolute charge",
+        "Choices":[
+            "Because of Jiro's resolute charge",
+            "Due to a magical accident",
+            "The Glitterflies cast a spell",
+            "The castle was enchanted"
+        ],
+        "ql": "8"
+    },
+    {
+        "Question":"What is the main moral lesson conveyed by the story of Jiro and the Glitterfly?",
+        "Answer":"Friendship and teamwork can overcome challenges",
+        "Choices":[
+            "Always avoid exploring unknown places",
+            "Friendship and teamwork can overcome challenges",
+            "Never trust plants that radiate light",
+            "Magic worlds are dangerous and should be avoided"
+        ],
+        "ql": "9"
     }
 ]

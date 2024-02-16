@@ -1,27 +1,80 @@
 [
     {
-        "Question": "What is the name of the character in the story?",
-        "Answer": "Selene/Selene Lopez",
-        "ql": "0"
+        "Question":"Who is the main character in the story?",
+        "Answer":"Selene",
+        "Choices":[
+            "Alyssa",
+            "Nicole",
+            "Selene",
+            "Sarah"
+        ],
+        "ql":"0",
+        "aoq":"6"
     },
     {
-        "Question": "What is the career/job of the main character's family in the story?",
-        "Answer": "Lawyer",
-        "ql": "1"
+        "Question":"What is the job of the members of her family?",
+        "Answer":"Lawyer",
+        "Choices":[
+            "Nurse",
+            "Teacher",
+            "Doctor",
+            "Lawyer"
+        ],
+        "ql":"1"
     },
     {
-        "Question": "What is the dream job of the main character?",
-        "Answer": "Doctor",
-        "ql": "2"
+        "Question":"What is the main character's dream job?",
+        "Answer":"",
+        "Choices":[
+            "Lawyer",
+            "Nurse",
+            "Doctor",
+            "Policewomen"
+        ],
+        "ql":"2"
     },
     {
-        "Question": "Why did she receive disagreements from her family when she was in college?",
-        "Answer": "It is because she chose to take a medical course in college",
-        "ql": "3"
+        "Question":"What course did she take in college?",
+        "Answer":"MedTech",
+        "Choices":[
+            "Political Science",
+            "MedTech",
+            "Nursing",
+            "Engineering"
+        ],
+        "ql":"3"
     },
     {
-        "Question": "What helped her to financially support her education?",
-        "Answer": "She was helped by a friend which introduced a stable job for her",
-        "ql": "4"
+        "Question":"What helped her to financially support her education?",
+        "Answer":"She was helped by a friend that introduced a stable job for her",
+        "Choices":[
+            "She was helped by a friend that introduced a stable job for her",
+            "She begged her family to support her",
+            "She borrowed money from her friends",
+            "She received scholarship"
+        ],
+        "ql":"4"
+    },
+    {
+        "Question":"Why did she receive disagreements regarding the course that she took?",
+        "Answer":"Because it is not aligned with the jobs of the family members",
+        "Choices":[
+            "Because there's no money in the course/ career that she took",
+            "Because it is not aligned with the jobs of the family members",
+            "They just don't want her to be happy",
+            "None of the above"
+        ],
+        "ql":"5"
+    },
+    {
+        "Question":"What is the moral lesson of the story?",
+        "Answer":"To pursue our dreams and do our best to achieve those",
+        "Choices":[
+            "To be a stubborn daughter",
+            "To pursue our dreams and do our best to achieve those",
+            "Be a good doctor",
+            "None of the above"
+        ],
+        "ql":"6"
     }
 ]

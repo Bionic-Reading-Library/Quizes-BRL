@@ -2,26 +2,57 @@
     {
         "Question": "What is the name of the main character in the story?",
         "Answer": "Dave",
-        "ql": "0"
+        "Choices":[
+            "John",
+            "Richard",
+            "Dave",
+            "Harry"
+        ],
+        "ql": "0",
+        "aoq": "4"
     },
     {
         "Question": "What is the online game that was introduced to the main character?",
         "Answer": "Mobile Legends: Bang Bang",
+        "Choices":[
+            "Mobile Legends: Bang Bang",
+            "League of Legends",
+            "Dota 2",
+            "Counter Strike"
+        ],
         "ql": "1"
     },
     {
         "Question": "How did he discover the online game?",
         "Answer": "Through his friend, Richard, who gave his phone to him and told him to play the online game",
+        "Choices":[
+            "He saw it on the internet",
+            "He heard his classmates playing Mobile Legends",
+            "He accidentally saw it on Play Store",
+            "Through his friend, Richard, who gave his phone to him and told him to play the online game"
+        ],
         "ql": "2"
     },
     {
         "Question": "What became his problem in terms of reaching his dreams?",
-        "Answer": "People underestimate the game as well as him",
+        "Answer": "People didn't trusted him and his sport",
+        "Choices":[
+            "His father was against his sport",
+            "He doesn't have the money to maintain playing it",
+            "People didn't trusted him and his sport",
+            "He doesn't have a phone"
+        ],
         "ql": "3"
     },
     {
         "Question": "What is the name of the main character's sport?",
-        "Answer": "Esports",
+        "Answer": "E-sports",
+        "Choices":[
+            "Basketball",
+            "E-sports",
+            "Soccer",
+            "Volleyball"
+        ],
         "ql": "4"
     }
 ]

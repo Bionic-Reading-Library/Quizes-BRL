@@ -2,27 +2,113 @@
     {
         "Question": "Who is the brilliant scientist in the story?",
         "Answer": "Dr. Alexander Jensen",
-        "ql": "0"
+        "Choices":[
+            "Dr. Alexander Jensen",
+            "Dr. Benjamin Carter",
+            "Dr. Olivia Williams",
+            "Dr. Ethan Reynolds"
+        ],
+        "ql": "0",
+        "aoq":"9"
     },
     {
         "Question": "What technology does Dr. Jensen use to explore alternate realities?",
         "Answer": "Quantum Field Generators",
+        "Choices":[
+            "Quantum Field Generators",
+            "Virtual Reality Headset",
+            "Time Travel Devices",
+            "Holographic Interfaces"
+        ],
         "ql": "1"
 
     },
     {
         "Question": "What threat does the alternate civilization face?",
         "Answer": "Impending Cataclysm",
+        "Choices":[
+            "Technological Singularity",
+            "Alien Invasion",
+            "Impending Cataclysm",
+            "Energy Crisis"
+        ],
         "ql": "2"
     },
     {
         "Question": "How do they stabilize their reality?",
         "Answer": "Quantum manipulation and ancient wisdom",
+        "Choices":[
+            "Genetic Engineering",
+            "Quantum manipulation and ancient wisdom",
+            "Artificial Intelligence Integration",
+            "Advanced Energy Sources"
+        ],
         "ql": "3"
     },
     {
         "Question": "What does Alexander promise his newfound friends before leaving?",
         "Answer": "To return if ever they need him again",
+        "Choices":[
+            "Unlimited Resources",
+            "To return if ever they need him again",
+            "Advanced Technological Gifts",
+            "Eternal Knowledge"
+        ],
         "ql": "4"
+    },
+    {
+        "Question": "What is the unique blend seen in the alternate city space?",
+        "Answer": "Advanced technology and timeless transition",
+        "Choices":[
+            "Traditional architecture only",
+            "Futuristic spires only",
+            "Advanced technology and timeless transition",
+            "Abandoned ruins and modern skyscrapers"
+        ],
+        "ql": "5"
+    },
+    {
+        "Question": "How does Alexander contribute to stabilizinig the alternate reality?",
+        "Answer": "Through quantum manipulation and ancient wisdom",
+        "Choices":[
+            "By building a protective shield",
+            "Through quantum manipulation and ancient wisdom",
+            "Creating a time loop",
+            "Harnessing solar energy"
+        ],
+        "ql": "6"
+    },
+    {
+        "Question": "What emotion fueled the scietists and scholars in the hidden enclave?",
+        "Answer": "Excitement",
+        "Choices":[
+            "Fear",
+            "Curiosity",
+            "Apathy",
+            "Excitement"
+        ],
+        "ql": "7"
+    },
+    {
+        "Question": "What was the pivotal moment during the plan to save the alternate reality",
+        "Answer": "The emergence of a breakthrough",
+        "Choices":[
+            "Alexander's farewell",
+            "The emergence of a breakthrough",
+            "The countdown to the cataclysm",
+            "Stepping through the portal"
+        ],
+        "ql": "8"
+    },
+    {
+        "Question": "How does the story suggest Alexander's future endevors?",
+        "Answer": "Continuing to explore uncharted realms",
+        "Choices":[
+            "Retiring from scientific exploration",
+            "Continuiing to explore uncharted realms",
+            "Focusing on traditional research",
+            "Establishing a new civilization"
+        ],
+        "ql": "9"
     }
 ]

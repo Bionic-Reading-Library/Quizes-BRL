@@ -2,26 +2,79 @@
     {
         "Question": "Who is the main character of the story?",
         "Answer": "Xina",
-        "ql": "0"
+        "Choices": [
+            "Delila",
+            "Cecil",
+            "Xina",
+            "Annie"
+        ],
+        "ql": "0",
+        "aoq":"6"
     },
     {
         "Question": "Who is the one who woke Xina up?",
         "Answer": "Her mother",
+        "Choices":[
+            "Her mother",
+            "Her father",
+            "God",
+            "Her little sister"
+        ],
         "ql": "1"
     },
     {
         "Question": "Who is the ghost in the main character's dreams?",
         "Answer": "Her sister",
+        "Choices":[
+            "Mikasa",
+            "Her sister",
+            "Eren",
+            "Her cousin"
+        ],
         "ql": "2"
     },
     {
         "Question": "When did the story happen?",
-        "Answer": "Saturday Night or October 19",
+        "Answer": "Saturday Night, October 19",
+        "Choices":[
+            "Sunday Night, May 20",
+            "Friday Night, December 19",
+            "Saturday Night, October 19",
+            "Saturaday Night, October 19"
+        ],
         "ql": "3"
     },
     {
         "Question": "Where did the story happen?",
         "Answer": "At the church near their home",
+        "Choices":[
+            "At the church near their home",
+            "At the park",
+            "At a concert",
+            "At Jollibee"
+        ],
         "ql": "4"
+    },
+    {
+        "Question":"How many years passed since Xina lost her sister?",
+        "Answer":"",
+        "Choices":[
+            "20 years",
+            "10 years",
+            "7 years",
+            "11 years"
+        ],
+        "ql":"5"
+    },
+    {
+        "Question":"How did Xina's sister die?",
+        "Answer":"",
+        "Choices":[
+            "she drowned",
+            "she slipped on a graveyard",
+            "she was ate by a shark",
+            "at a car wash"
+        ],
+        "ql":"6"
     }
 ]

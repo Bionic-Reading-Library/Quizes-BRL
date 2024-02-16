@@ -1,0 +1,99 @@
+[
+    {
+        "Question":"Who is the main character of the story? ",
+        "Answer":"Keina",
+        "Choices":["Kiana", "Keina", "Kiya", "Krissa"],
+        "ql":"0",
+        "aoq":"9"
+    },
+    {
+        "Question":"Where did the story happen?",
+        "Answer":"at the school",
+        "Choices":[
+            "at the market",
+            "at the zoo",
+            "at the park",
+            "at the school"
+        ],
+        "ql":"1"
+    },
+    {
+        "Question":"When did the story happen?",
+        "Answer":"One monday night",
+        "Choices":[
+            "One monday night",
+            "One tuesday night",
+            "One friday night",
+            "One wednesday night"
+        ],
+        "ql":"2"
+    },
+    {
+        "Question":"Who is the ghost in the story?",
+        "Answer":"Desiree",
+        "Choices":[
+            "Harry",
+            "Joe",
+            "Desiree",
+            "Ariana"
+        ],
+        "ql":"3"
+    },
+    {
+        "Question":"Who is the one who killed Desiree?",
+        "Answer":"The Principal",
+        "Choices":[
+            "The Janitor",
+            "The Librarian",
+            "The Principal",
+            "Taylor Swift"
+        ],
+        "ql":"4"
+    },
+    {
+        "Question":"Who is the sibling of the ghost?",
+        "Answer":"Ashley",
+        "Choices":[
+            "Ashley",
+            "Madonna",
+            "Shakira",
+            "Nina"
+        ],
+        "ql":"5"
+    },
+    {
+        "Question":"What time do Keia need to go home",
+        "Answer":"8:00 PM",
+        "Choices":[
+            "10:00 AM",
+            "9:00 AM",
+            "7:00 PM",
+            "8:00 PM"
+        ],
+        "ql":"6"
+    },
+    {
+        "Question":"Who is the killer in the story?",
+        "Answer":"Principal",
+        "Choices":["Desiree", "Ashley","Keia", "Principal"],
+        "ql":"7"
+    },
+    {
+        "Question":"What time did the principal tell Keia to go to his office?",
+        "Answer":"7:00 PM",
+        "Choices":["7:00 PM","10:00 PM", "9:00 AM", "8:00 PM"],
+        "ql":"8"
+    },
+    {
+        "Question":"What is the title of the story?",
+        "Answer":"Desiree Suarez",
+        "Choices":[
+            "The Almighty Principal",
+            "The Cat and Dog",
+            "Kathryn Sylvenia",
+            "Desiree Suarez"
+        ],
+        "ql":"9"
+    }
+
+]

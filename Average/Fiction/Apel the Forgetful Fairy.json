@@ -1,58 +1,81 @@
 [
     {
         "Question": "What is Apel known for?",
+        "Answer": "Kindness",
         "Choices": [
-            "Apel is known for her kindness.",
-            "Apel is known for her strength.",
-            "Apel is known for her intelligence.",
-            "Apel is known for her intelligence."
+            "Rudeness",
+            "Forgetfulness",
+            "Kindness",
+            "Laziness"
         ],
-        "Answer": "Apel is known for her kindness.",
         "ql": "0",
         "aoq": "4"
     },
     {
-        "Question": "What was Apel's weakness?",
+        "Question": "How did Apel ensure she wouldn't forget things in the future?",
         "Choices": [
-            "Apel's weakness is that she tends to forget things.",
-            "Apel's weakness is that she is not very strong.",
-            "Apel's weakness is that she is not very intelligent.",
-            "Apel's weakness is that she is not very intelligent."
+            "She cast a spell on herself",
+            "She set reminders",
+            "She asked other fairies for help",
+            "She stopped taking on tasks"
         ],
-        "Answer": "Apel's weakness is that she tends to forget things.",
+        "Answer": "She set reminders",
         "ql": "1"
     },
     {
         "Question": "What task did Apel forget to complete one day?",
         "Choices": [
-            "Apel forgot to take some magical flowers to the elves in the forest.",
-            "Apel forgot to take some magical flowers to the dwarves in the forest.",
-            "Apel forgot to take some magical flowers to the dwarves in the forest.",
-            "Apel forgot to take some magical flowers to the gnomes in the forest."
+                "Delivering gifts to humans",
+                "Bringing magical flowers to the elves",
+                "Cleaning the Fairyland",
+                "Attending a fairy gathering"
         ],
-        "Answer": "Apel forgot to take some magical flowers to the elves in the forest.",
+        "Answer": "Bringing magical flowers to the elves",
         "ql": "2"
     },
     {
         "Question": "What did Apel decide to do to make amends for her forgetfulness?",
         "Choices": [
-            "To make amends, Apel decided to apologize and bring the flowers first thing the next day.",
-            "To make amends, Apel decided to apologize and bring the flowers first thing the next week.",
-            "To make amends, Apel decided to apologize and bring the flowers first thing the next week.",
-            "to make amends, Apel decided to apologize and bring the flowers first thing the next month."
+            "Ignore the Situation",
+            "Blame someone else",
+            "Apologieze and vow to bring the flowers the next day",
+            "Never return to the elves"
         ],
-        "Answer": "To make amends, Apel apologized and vowed to bring the flowers first thing the next day.",
+        "Answer": "Apologieze and vow to bring the flowers the next day",
         "ql": "3"
     },
     {
-        "Question": "How did Apel's transformation impact her relationships in the land?",
+        "Question": "What positive transformation did Apel undergo over time?",
         "Choices": [
-            "Apel's transformation earned her the respect and trust of everyone in the land.",
-            "Apel's transformation earned her the respect and trust of no one in the land.",
-            "Apel's transformation earned her the respect and trust of no one in the land.",
-            "Apel's transformation earned her the respect and trust of only a few in the land."
+            "She became more forgetful",
+            "She became more lazy",
+            "She became punctual and responsible",
+            "She became mean-spirited"
         ],
-        "Answer": "Apel's transformation earned her the respect and trust of everyone in the land.",
+        "Answer": "She became punctual and responsible",
         "ql": "4"
+    },
+    {
+        "Question":"Why is being responsible and keeping promises crucial, according to Apel's story?",
+        "Answer":"To prevent unnecessary hardships for others",
+        "Choices":[
+            "To avoid punishment from other fairies",
+            "Because it's a fairyland tradition",
+            "To prevent unnecessary hardships for others",
+            "Elves demand it as a sign of respect"
+        ],
+        "ql":"5"
+    },
+    {
+        "Question":"Imagine Apel has been entrusted with delivering a crucial message to the queen of the fairyland. However, she forgets the message at home. What do you think Apel should do in this situation based on the lessons she learned?",
+        "Answer":"Apologize to the queen and promise to deliver the message promptly the next day.",
+        "Choices":[
+            "Ignore the mistake and hope the queen won't notice.",
+            "Apologize to the queen and promise to deliver the message promptly the next day.",
+            "Blame someone else for the oversight.",
+            "Decide that the message is not important and avoid delivering it altogether."
+        ],
+        "ql":"6"
     }
+
 ]

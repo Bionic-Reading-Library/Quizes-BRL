@@ -1,27 +1,58 @@
 [ 
 {
     "Question": "Who is the main character in the story?",
-    "Answer": "Molly.",
-    "ql": "0"
+    "Answer": "Molly",
+    "Choices": [
+        "Emily",
+        "Molly",
+        "Lucy",
+        "Sophie"
+    ],
+    "ql": "0",
+    "aoq": "4"
 },
 {
     "Question": "What does Molly like to do?",
     "Answer": "Molly really likes reading books and imagining different worlds.",
+    "Choices": [
+        "Playing Sports",
+        "Painting",
+        "Reading Books",
+        "Cooking"
+    ],
     "ql": "1"
 },
 {
-    "Question": "What did Molly teach the animals?",
-    "Answer": "Molly taught the animals how to be kind and friendly.",
+    "Question": "Where does the story take place?",
+    "Answer": "A Magical Forest",
+    "Choices": [
+        "A City",
+        "A Magical Forest",
+        "A School",
+        "A Beach"
+    ],
     "ql": "2"
 },
 {
-    "Question": "What happened to the forest after Molly's efforts?",
-    "Answer": "The forest became a more welcoming and loving place where all the creatures lived happily together, no matter how different they were.",
+    "Question": "What positive change occurred in the forest after Molly's intervention?",
+    "Answer": "The creatures lived happily together",
+    "Choices": [
+        "The animals became more aggressive",
+        "The forest became darker",
+        "The creatures lived happily together",
+        "Molly left the forest"
+    ],
     "ql": "3"
 },
 {
-    "Question": "What did Molly inspire others to do?",
-    "Answer": "Molly inspired others to be accepting and showed them that even a little talk can make a big difference.",
+    "Question": "How did Molly make a big difference in the forest?",
+    "Answer": "By talking to the animals",
+    "Choices": [
+        "By Casting Spells",
+        "By Having a big Party",
+        "By talking to the animals",
+        "be leaving the forest"
+    ],
     "ql": "4"
 }
  ]

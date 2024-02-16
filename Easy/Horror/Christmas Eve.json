@@ -2,26 +2,57 @@
     {
         "Question": "Who is the main character of the story?",
         "Answer": "Juliet",
-        "ql": "0"
+        "Choices": [
+            "Barney",
+            "Mirabelle",
+            "Juliet",
+            "Taylor Swift"
+        ],
+        "ql": "0",
+        "aoq":"4"
     },
     {
-        "Question": "When did the story happen?",
-        "Answer": "24th of December 2007",
+        "Question": "What time did the story happen?",
+        "Answer": "Saturday night or October 19",
+        "Choices":[
+            "At the main character's birthday",
+            "Saturday night or October 19",
+            "Taylor Swift's Concert",
+            "New Year's Eve"
+        ],
         "ql": "1"
     },
     {
         "Question": "How did Juliet's husband die?",
-        "Answer": "at a car crash",
+        "Answer": "At a Car Crash",
+        "Choices":[
+            "He drowned at the sea",
+            "He was food poisoned",
+            "At a Car Crash",
+            "Shot in the Heart"
+        ],
         "ql": "2"
     },
     {
-        "Question": "What time did the story happen?",
-        "Answer": "Saturday Night or October 19",
+        "Question": "When did the story Happen?",
+        "Answer": "24th of December 2007",
+        "Choices":[
+            "24th of December 2007",
+            "January 1, 2017",
+            "February 20, 2006",
+            "November 1, 2016"
+        ],
         "ql": "3"
     },
     {
         "Question": "Where did the story happen?",
-        "Answer": "At Juliet's house",
+        "Answer": "At Julie's house",
+        "Choices":[
+            "At Jollibee",
+            "At a Park",
+            "At the beach",
+            "At Julie's house"
+        ],
         "ql": "4"
     }
 ]

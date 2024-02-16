@@ -2,26 +2,82 @@
     {
         "Question": "What is the name of the main character in the story?",
         "Answer": "Efren",
-        "ql": "0"
+        "Choices": ["Efren","Jerome","David","John"],
+        "ql": "0",
+        "aoq":"9"
     },
     {
         "Question": "Where did the story take place?",
-        "Answer": "Billiards' hall/ Manila",
+        "Answer": "Billiards Hall",
+        "Choices": ["Park","Billiards Hall","Mall","School"],
         "ql": "1"
     },
     {
-        "Question": "Why did the main character describe Manila as an urban jungle?",
-        "Answer": "Because of the terrifying noises and unpleasant smell present in this place",
+        "Question": "What is the sport played inside the hall?",
+        "Answer": "Billiards",
+        "Choices": ["Badminton","Billiards","Chess","Boxing"],
         "ql": "2"
     },
     {
-        "Question": "Who is the owner of the billiards hall?",
-        "Answer": "Efren's Uncle",
+        "Question": "Who is the owner of the place?",
+        "Answer": "His Uncle",
+        "Choices":["His Mother", "His Cousin", "His Classmate", "His Uncle"],
         "ql": "3"
     },
     {
-        "Question": "Why did the people called Efren 'The Magician'?",
-        "Answer": "It is because how he always make sure to shoot the ball even in an unimaginable situation",
+        "Question": "What word did Efren use to describe the hall?",
+        "Answer": "Enormous",
+        "Choices": ["Small", "Enormous", "Spacious", "Large"],
         "ql": "4"
+    },
+    {
+        "Question":"What time did Efren usually wake up?",
+        "Answer":"9:00 AM",
+        "Choices":["4:00 AM","5:00 AM","9:00 AM","7:00 AM"],
+        "ql":"5"
+    },
+    {
+        "Question":"Why did Efren wake up early in the morning?",
+        "Answer":"Because he will go to his uncle's Billiards hall",
+        "Choices":[
+            "Because he will do his workout routine",
+            "Because he will go to his uncle's Billiards hall",
+            "Because he is an early bird",
+            "Because he cooks early"
+        ],
+        "ql":"6"
+    },
+    {
+        "Question":"Why did Efren get interested in playing Billiards?",
+        "Answer":"Because he always sees people playing it well, that's why his interest grew and aimed to be good at that sport in the future",
+        "Choices":[
+            "Because he always sees people playing it well, that's why his interest grew and aimed to be good at that sport in the future",
+            "Because he wants to own the Billiards hall someday",
+            "Because his uncle said so",
+            "Because he wants to"
+        ],
+        "ql":"7"
+    },
+    {
+        "Question":"Why did the people call Efren 'The Magician?'",
+        "Answer":"",
+        "Choices":[
+            "His hands are good at magic tricks",
+            "He uses different magic tricks to entertain the children",
+            "He always makes sure that the ball will go inside even if it is almost impossible, which made him look like he's executing magic tricks at the billiard table",
+            "He can turn the cue stick into an umbrella"
+        ],
+        "ql":"8"
+    },
+    {
+        "Question":"What is the moral lesson of the story?",
+        "Answer":"Work hard for your goals and dreams to be achieved",
+        "Choices":[
+            "Work hard for your goals and dreams to be achieved",
+            "Practice at least one sport",
+            "Stay at your uncle's place",
+            "Give up your dreams"
+        ],
+        "ql":"9"
     }
 ]
